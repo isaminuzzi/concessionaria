@@ -1,0 +1,16 @@
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.exe
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.deps.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.runtimeconfig.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.runtimeconfig.dev.json
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\ref\Concessionaria.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\bin\Debug\net5.0\Concessionaria.pdb
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.csproj.AssemblyReference.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.AssemblyInfoInputs.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.AssemblyInfo.cs
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.csproj.CoreCompileInputs.cache
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\ref\Concessionaria.dll
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.pdb
+C:\Users\Isadora\OneDrive - Sociedade Campineira de Educação e Instrução\Pessoal II\HDN\Concessionaria\Concessionaria\obj\Debug\net5.0\Concessionaria.genruntimeconfig.cache
